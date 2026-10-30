@@ -1,0 +1,758 @@
+{
+ "note": "20 Saudi and Emirati records compared with their GeoNames and Wikidata pages, fetched once each at most one request per 3 seconds per host.",
+ "places": [
+  {
+   "record_id": "bl-gaz-gn-108410",
+   "country_code": "SA",
+   "name_en": "Riyadh",
+   "name_ar": "الرياض",
+   "geoname_id": 108410,
+   "wikidata_qid": "Q3692",
+   "geonames_page": "https://www.geonames.org/108410",
+   "geonames_page_retrieved_at": "2026-10-30T13:21:53Z",
+   "geonames_page_sha256": "fbbd8653ee6ba2ecca96cd0e05ba6dc2b3c9a2988671e8e7476eb5c9a62eb6bf",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q3692",
+   "wikidata_page_retrieved_at": "2026-10-30T13:21:55Z",
+   "wikidata_page_sha256": "5649133a2b0540f8efc8f08f32661fa72b1ea1fa83874334fa6257c38530c0a5",
+   "geonames_page_coordinates": [
+    24.68773,
+    46.72185
+   ],
+   "record_coordinates": [
+    24.68773,
+    46.72185
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "الرياض",
+    "رياض"
+   ],
+   "arabic_wikipedia_title": "الرياض",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": true,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": true
+  },
+  {
+   "record_id": "bl-gaz-gn-105343",
+   "country_code": "SA",
+   "name_en": "Jeddah",
+   "name_ar": "جدة",
+   "geoname_id": 105343,
+   "wikidata_qid": "Q374365",
+   "geonames_page": "https://www.geonames.org/105343",
+   "geonames_page_retrieved_at": "2026-10-30T13:21:58Z",
+   "geonames_page_sha256": "b4543d1b23e6a4ccaed6beaa72be7b82c4a800804bb9f63a5279fc7e0bfe48bc",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q374365",
+   "wikidata_page_retrieved_at": "2026-10-30T13:22:01Z",
+   "wikidata_page_sha256": "1f58da4b3ecd1e8cd3a7c88dbd216be53abf28417edb910c725a4c4c68dcee58",
+   "geonames_page_coordinates": [
+    21.49012,
+    39.18624
+   ],
+   "record_coordinates": [
+    21.49012,
+    39.18624
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "جدة",
+    "جده",
+    "جدّة"
+   ],
+   "arabic_wikipedia_title": "جدة",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": true,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": true
+  },
+  {
+   "record_id": "bl-gaz-gn-104515",
+   "country_code": "SA",
+   "name_en": "Mecca",
+   "name_ar": "مكة المكرمة",
+   "geoname_id": 104515,
+   "wikidata_qid": "Q5806",
+   "geonames_page": "https://www.geonames.org/104515",
+   "geonames_page_retrieved_at": "2026-10-30T13:22:04Z",
+   "geonames_page_sha256": "01d12b494df00360acab72045a29670111c451fb145b11d7eaa48eeea15bb310",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q5806",
+   "wikidata_page_retrieved_at": "2026-10-30T13:22:07Z",
+   "wikidata_page_sha256": "a1935e280566fd9c3b87647a0607b83faa8035c14abe46edd9cdcbc9533bb6de",
+   "geonames_page_coordinates": [
+    21.42664,
+    39.82563
+   ],
+   "record_coordinates": [
+    21.42664,
+    39.82563
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "مكة",
+    "مكة المكرمة",
+    "مكه"
+   ],
+   "arabic_wikipedia_title": "مكة",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": true,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": true
+  },
+  {
+   "record_id": "bl-gaz-gn-109223",
+   "country_code": "SA",
+   "name_en": "Medina",
+   "name_ar": "المدينة المنورة",
+   "geoname_id": 109223,
+   "wikidata_qid": "Q35484",
+   "geonames_page": "https://www.geonames.org/109223",
+   "geonames_page_retrieved_at": "2026-10-30T13:22:10Z",
+   "geonames_page_sha256": "1f69535105df92ad49efb90de86c51ba5fb0531b6ee671b7cec1470c41852a2f",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q35484",
+   "wikidata_page_retrieved_at": "2026-10-30T13:22:13Z",
+   "wikidata_page_sha256": "a3c826916c51c384fb4f48b2ade5cce73cf06f88cf262c59012b8861550c6ad7",
+   "geonames_page_coordinates": [
+    24.46861,
+    39.61417
+   ],
+   "record_coordinates": [
+    24.46861,
+    39.61417
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "المدينة",
+    "المدينة المنورة",
+    "المدينة المنوره"
+   ],
+   "arabic_wikipedia_title": "المدينة المنورة",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": true,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": true
+  },
+  {
+   "record_id": "bl-gaz-gn-110336",
+   "country_code": "SA",
+   "name_en": "Dammam",
+   "name_ar": "الدمام",
+   "geoname_id": 110336,
+   "wikidata_qid": "Q160320",
+   "geonames_page": "https://www.geonames.org/110336",
+   "geonames_page_retrieved_at": "2026-10-30T13:22:16Z",
+   "geonames_page_sha256": "cbb79b1c3bcb58291e85b5bfb38bf548f0a6cf28fa9c954d2b9279ae5fb4a101",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q160320",
+   "wikidata_page_retrieved_at": "2026-10-30T13:22:19Z",
+   "wikidata_page_sha256": "9b627cd66abee5d70914630bf80ba72661c737f089fe807f49d8e99887fc7c72",
+   "geonames_page_coordinates": [
+    26.43442,
+    50.10326
+   ],
+   "record_coordinates": [
+    26.43442,
+    50.10326
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "الدمام",
+    "دمام"
+   ],
+   "arabic_wikipedia_title": "الدمام",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": true,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": true
+  },
+  {
+   "record_id": "bl-gaz-gn-109323",
+   "country_code": "SA",
+   "name_en": "Khobar",
+   "name_ar": "الخبر",
+   "geoname_id": 109323,
+   "wikidata_qid": "Q311266",
+   "geonames_page": "https://www.geonames.org/109323",
+   "geonames_page_retrieved_at": "2026-10-30T13:22:22Z",
+   "geonames_page_sha256": "b4dffc35b5813ab3259e02b31d3e4f6002ab8dd5db30d77bba60c69386583286",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q311266",
+   "wikidata_page_retrieved_at": "2026-10-30T13:22:25Z",
+   "wikidata_page_sha256": "6967c046cd3b7f4dd16d88b99a73d32c32290ea253db5037e467969aea94208f",
+   "geonames_page_coordinates": [
+    26.27944,
+    50.20833
+   ],
+   "record_coordinates": [
+    26.27944,
+    50.20833
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "الخبر",
+    "خبر"
+   ],
+   "arabic_wikipedia_title": "الخبر (السعودية)",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": true,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": true
+  },
+  {
+   "record_id": "bl-gaz-gn-107968",
+   "country_code": "SA",
+   "name_en": "Ta'if",
+   "name_ar": "الطائف",
+   "geoname_id": 107968,
+   "wikidata_qid": "Q182640",
+   "geonames_page": "https://www.geonames.org/107968",
+   "geonames_page_retrieved_at": "2026-10-30T13:22:30Z",
+   "geonames_page_sha256": "8f29ae1be172c03aaf72ada6ded238b273d16cdf1b06c704542c2d2e5559e254",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q182640",
+   "wikidata_page_retrieved_at": "2026-10-30T13:22:31Z",
+   "wikidata_page_sha256": "c0c17d05c5fbdb39bfd702f69ad2caf7a44ea979a8b02c32cb856e786b991f3f",
+   "geonames_page_coordinates": [
+    21.27028,
+    40.41583
+   ],
+   "record_coordinates": [
+    21.27028,
+    40.41583
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "الطائف",
+    "طائف"
+   ],
+   "arabic_wikipedia_title": "الطائف",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": true,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": true
+  },
+  {
+   "record_id": "bl-gaz-gn-101628",
+   "country_code": "SA",
+   "name_en": "Tabuk",
+   "name_ar": "تبوك",
+   "geoname_id": 101628,
+   "wikidata_qid": "Q244232",
+   "geonames_page": "https://www.geonames.org/101628",
+   "geonames_page_retrieved_at": "2026-10-30T13:22:34Z",
+   "geonames_page_sha256": "44750a8876ce2c1c93db5229f088c6bc24fffac1f04b2085f0fd8e8719b74e5e",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q244232",
+   "wikidata_page_retrieved_at": "2026-10-30T13:22:37Z",
+   "wikidata_page_sha256": "3deb5f3251b84cedd8ce068b7d60ccb6a337ae170abb0efccabff4483b00ac17",
+   "geonames_page_coordinates": [
+    28.3998,
+    36.57151
+   ],
+   "record_coordinates": [
+    28.3998,
+    36.57151
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "تبوك"
+   ],
+   "arabic_wikipedia_title": "تبوك",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": true,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": true
+  },
+  {
+   "record_id": "bl-gaz-gn-110690",
+   "country_code": "SA",
+   "name_en": "Abhā",
+   "name_ar": "أبها",
+   "geoname_id": 110690,
+   "wikidata_qid": "Q190948",
+   "geonames_page": "https://www.geonames.org/110690",
+   "geonames_page_retrieved_at": "2026-10-30T13:22:40Z",
+   "geonames_page_sha256": "36aaa47ff4f09c12a683b3525277a59eb8fab4434e28401e46d6679d1b6bfef5",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q190948",
+   "wikidata_page_retrieved_at": "2026-10-30T13:22:43Z",
+   "wikidata_page_sha256": "8619cd6ef17bd8ee0b5c16c8a5936ef9385c2d27564ddd3daa99fecd39372d35",
+   "geonames_page_coordinates": [
+    18.21639,
+    42.50528
+   ],
+   "record_coordinates": [
+    18.21639,
+    42.50528
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "أبها",
+    "ابها"
+   ],
+   "arabic_wikipedia_title": "أبها",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": true,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": true
+  },
+  {
+   "record_id": "bl-gaz-gn-106281",
+   "country_code": "SA",
+   "name_en": "Ha'il",
+   "name_ar": "حائل",
+   "geoname_id": 106281,
+   "wikidata_qid": "Q675568",
+   "geonames_page": "https://www.geonames.org/106281",
+   "geonames_page_retrieved_at": "2026-10-30T13:22:46Z",
+   "geonames_page_sha256": "dcb436b9a6eb15bd285e5495fc62413f1fe55fb3051eab04c29fb73d65dbac0e",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q675568",
+   "wikidata_page_retrieved_at": "2026-10-30T13:22:49Z",
+   "wikidata_page_sha256": "43cab2507da6c884365838019538de65e31ad89abd39713853dd62d5f6078e77",
+   "geonames_page_coordinates": [
+    27.52188,
+    41.69073
+   ],
+   "record_coordinates": [
+    27.52188,
+    41.69073
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "حائل"
+   ],
+   "arabic_wikipedia_title": "حائل",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": true,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": true
+  },
+  {
+   "record_id": "bl-gaz-gn-292968",
+   "country_code": "AE",
+   "name_en": "Abu Dhabi",
+   "name_ar": "أبوظبي",
+   "geoname_id": 292968,
+   "wikidata_qid": "Q1519",
+   "geonames_page": "https://www.geonames.org/292968",
+   "geonames_page_retrieved_at": "2026-10-30T13:22:52Z",
+   "geonames_page_sha256": "6f5897eee680d33ab77594c3a21f9335d61fa9959ac2127fbce18bff1ddd30d9",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q1519",
+   "wikidata_page_retrieved_at": "2026-10-30T13:22:55Z",
+   "wikidata_page_sha256": "9c7ae08b82451057d97c8ae9155259cf0f43a46676059566e9ad81b19b9c2cb8",
+   "geonames_page_coordinates": [
+    24.45118,
+    54.39696
+   ],
+   "record_coordinates": [
+    24.45118,
+    54.39696
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "أبوظبي",
+    "ابو ظبى",
+    "بوظبي",
+    "جزيرة أبوظبي وجزر داخلية اخرى"
+   ],
+   "arabic_wikipedia_title": "أبو ظبي",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": true,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": true
+  },
+  {
+   "record_id": "bl-gaz-gn-292223",
+   "country_code": "AE",
+   "name_en": "Dubai",
+   "name_ar": "دبي",
+   "geoname_id": 292223,
+   "wikidata_qid": "Q612",
+   "geonames_page": "https://www.geonames.org/292223",
+   "geonames_page_retrieved_at": "2026-10-30T13:22:58Z",
+   "geonames_page_sha256": "6faf1454c85260151463f6984ccc19ed3b382b1162f7ecc2e6514ebcb2115eb3",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q612",
+   "wikidata_page_retrieved_at": "2026-10-30T13:23:01Z",
+   "wikidata_page_sha256": "7bd33e6421e78447094bab51c4ae3403b05b34835050e6f28afc5a8cc5654cea",
+   "geonames_page_coordinates": [
+    25.07725,
+    55.30927
+   ],
+   "record_coordinates": [
+    25.07725,
+    55.30927
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "دبى",
+    "دبي"
+   ],
+   "arabic_wikipedia_title": "دبي",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": true,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": true
+  },
+  {
+   "record_id": "bl-gaz-gn-292672",
+   "country_code": "AE",
+   "name_en": "Sharjah city",
+   "name_ar": "الشارقة",
+   "geoname_id": 292672,
+   "wikidata_qid": "Q289693",
+   "geonames_page": "https://www.geonames.org/292672",
+   "geonames_page_retrieved_at": "2026-10-30T13:23:05Z",
+   "geonames_page_sha256": "92ad8a3e4c05806882f6b11f7c0b3a461d89443f464a31beb914fa759b4b31ea",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q289693",
+   "wikidata_page_retrieved_at": "2026-10-30T13:23:07Z",
+   "wikidata_page_sha256": "615ce42885c9eecdd9d7c7a81a8b2bb7e3c9e914823be1a8a25400514bd9e378",
+   "geonames_page_coordinates": [
+    25.3342,
+    55.41221
+   ],
+   "record_coordinates": [
+    25.3342,
+    55.41221
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "إمارة الشارقة",
+    "الشارقة",
+    "مدينة الشارقة"
+   ],
+   "arabic_wikipedia_title": "الشارقة",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": true,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": true
+  },
+  {
+   "record_id": "bl-gaz-gn-292932",
+   "country_code": "AE",
+   "name_en": "Ajman",
+   "name_ar": "عجمان",
+   "geoname_id": 292932,
+   "wikidata_qid": "Q530171",
+   "geonames_page": "https://www.geonames.org/292932",
+   "geonames_page_retrieved_at": "2026-10-30T13:23:10Z",
+   "geonames_page_sha256": "b481c3bfe50dfce00236c52d5d972b50ec03aa188f2205837968cdb063607bac",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q530171",
+   "wikidata_page_retrieved_at": "2026-10-30T13:23:13Z",
+   "wikidata_page_sha256": "bc6390eb0921119b76759461bde877a56f60be0e08783f5117e8c8727a002ad5",
+   "geonames_page_coordinates": [
+    25.40177,
+    55.47878
+   ],
+   "record_coordinates": [
+    25.40177,
+    55.47878
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "عجمان",
+    "عيمان"
+   ],
+   "arabic_wikipedia_title": "عجمان",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": true,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": true
+  },
+  {
+   "record_id": "bl-gaz-gn-290594",
+   "country_code": "AE",
+   "name_en": "Umm Al Quwain",
+   "name_ar": "أم القيوين",
+   "geoname_id": 290594,
+   "wikidata_qid": "Q2788830",
+   "geonames_page": "https://www.geonames.org/290594",
+   "geonames_page_retrieved_at": "2026-10-30T13:23:16Z",
+   "geonames_page_sha256": "1333b4505b8210e00d93b86e3d446ad1beda81246072deb69f12d698df91cb3f",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q2788830",
+   "wikidata_page_retrieved_at": "2026-10-30T13:23:19Z",
+   "wikidata_page_sha256": "0544b6f6510aa61ebb9a33b4ee11410ee04d329f3876bcfa79ff7fe0444423d4",
+   "geonames_page_coordinates": [
+    25.56473,
+    55.55517
+   ],
+   "record_coordinates": [
+    25.56473,
+    55.55517
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "أم القيوين",
+    "ام القيوين",
+    "مدينة ام القيوين"
+   ],
+   "arabic_wikipedia_title": "أم القيوين",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": false,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": false
+  },
+  {
+   "record_id": "bl-gaz-gn-291074",
+   "country_code": "AE",
+   "name_en": "Ras al-Khaimah",
+   "name_ar": "رَأْس ٱلْخَيْمَة",
+   "geoname_id": 291074,
+   "wikidata_qid": "Q2126436",
+   "geonames_page": "https://www.geonames.org/291074",
+   "geonames_page_retrieved_at": "2026-10-30T13:23:22Z",
+   "geonames_page_sha256": "cf94bbae6caae6379c3ce46e07853b9b3899cc7c702f3e49436a719ef90ea39e",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q2126436",
+   "wikidata_page_retrieved_at": "2026-10-30T13:23:25Z",
+   "wikidata_page_sha256": "8787b3c9c54c42f3304b569390a9f7cf3b3a921da8911934fac363db565e51db",
+   "geonames_page_coordinates": [
+    25.78953,
+    55.9432
+   ],
+   "record_coordinates": [
+    25.78953,
+    55.9432
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "رأس الخيمة",
+    "رَأْس ٱلْخَيْمَة",
+    "مدينة رأس الخيمة"
+   ],
+   "arabic_wikipedia_title": "رأس الخيمة",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": false,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": false
+  },
+  {
+   "record_id": "bl-gaz-gn-292878",
+   "country_code": "AE",
+   "name_en": "Fujairah",
+   "name_ar": "الفجيرة",
+   "geoname_id": 292878,
+   "wikidata_qid": "Q4045",
+   "geonames_page": "https://www.geonames.org/292878",
+   "geonames_page_retrieved_at": "2026-10-30T13:23:28Z",
+   "geonames_page_sha256": "5961b8a5afeac198820efc78ec36eff50f9704a1372a562cb7deee997117bd3a",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q4045",
+   "wikidata_page_retrieved_at": "2026-10-30T13:23:31Z",
+   "wikidata_page_sha256": "5c29439018a029c79a9e79976f8faf706bc8dcf161060636459fc1dc18ecb805",
+   "geonames_page_coordinates": [
+    25.11641,
+    56.34141
+   ],
+   "record_coordinates": [
+    25.11641,
+    56.34141
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "الفجيرة",
+    "فجيرة",
+    "مدينة الفجيرة"
+   ],
+   "arabic_wikipedia_title": "الفجيرة",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": false,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": false
+  },
+  {
+   "record_id": "bl-gaz-gn-292913",
+   "country_code": "AE",
+   "name_en": "Al Ain",
+   "name_ar": "العين",
+   "geoname_id": 292913,
+   "wikidata_qid": "Q234600",
+   "geonames_page": "https://www.geonames.org/292913",
+   "geonames_page_retrieved_at": "2026-10-30T13:23:34Z",
+   "geonames_page_sha256": "78a38cbd1923cb12a03e0431351c2b8d656e619eebfc399bc6f12879b6f0aae9",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q234600",
+   "wikidata_page_retrieved_at": "2026-10-30T13:23:37Z",
+   "wikidata_page_sha256": "f71010455aace07ac332b47d881bd32a12ab55462cc56c128dbb21e2c91efe9b",
+   "geonames_page_coordinates": [
+    24.19167,
+    55.76056
+   ],
+   "record_coordinates": [
+    24.19167,
+    55.76056
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "العين",
+    "مدينة العين"
+   ],
+   "arabic_wikipedia_title": "العين (أبوظبي)",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": true,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": true
+  },
+  {
+   "record_id": "bl-gaz-gn-291696",
+   "country_code": "AE",
+   "name_en": "Khor Fakkan",
+   "name_ar": "خورفكان",
+   "geoname_id": 291696,
+   "wikidata_qid": "Q764279",
+   "geonames_page": "https://www.geonames.org/291696",
+   "geonames_page_retrieved_at": "2026-10-30T13:23:40Z",
+   "geonames_page_sha256": "e47512db449efffd7acda3a7de3a27db614370ffbe62a564014276b6c493518a",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q764279",
+   "wikidata_page_retrieved_at": "2026-10-30T13:23:44Z",
+   "wikidata_page_sha256": "cc0e5d765f2f270605da9c95131c291c6918fffa35b399c55f50f87f90246f62",
+   "geonames_page_coordinates": [
+    25.33132,
+    56.34199
+   ],
+   "record_coordinates": [
+    25.33132,
+    56.34199
+   ],
+   "arabic_names_found_on_geonames_page": [
+    "خور",
+    "مدينة خور فكان"
+   ],
+   "arabic_wikipedia_title": "خورفكان",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": true,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": true,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": true
+  },
+  {
+   "record_id": "bl-gaz-gn-291763",
+   "country_code": "AE",
+   "name_en": "Kalba",
+   "name_ar": "كلباء",
+   "geoname_id": 291763,
+   "wikidata_qid": "Q2204078",
+   "geonames_page": "https://www.geonames.org/291763",
+   "geonames_page_retrieved_at": "2026-10-30T13:23:46Z",
+   "geonames_page_sha256": "c9525882b6c76e71d2ba9a2a3adad2db50a9e8bbe22cb1597ee304b6e4f83be6",
+   "wikidata_page": "https://www.wikidata.org/wiki/Q2204078",
+   "wikidata_page_retrieved_at": "2026-10-30T13:23:49Z",
+   "wikidata_page_sha256": "495a205418a4bf36054779bdd688de248e1122fee8012d47e335857afa5e702a",
+   "geonames_page_coordinates": [
+    25.0513,
+    56.35422
+   ],
+   "record_coordinates": [
+    25.0513,
+    56.35422
+   ],
+   "arabic_names_found_on_geonames_page": [],
+   "arabic_wikipedia_title": "كلباء",
+   "checks": {
+    "geonames_id_on_geonames_page": true,
+    "geonames_coordinates_match": true,
+    "geonames_main_name_match": true,
+    "an_arabic_name_on_geonames_page": false,
+    "wikidata_page_is_linked_item": true,
+    "geonames_id_on_wikidata_page": true,
+    "canonical_arabic_on_wikidata_page": true
+   },
+   "all_checks_pass": false
+  }
+ ],
+ "summary": {
+  "geonames_id_on_geonames_page": 20,
+  "geonames_coordinates_match": 20,
+  "geonames_main_name_match": 20,
+  "an_arabic_name_on_geonames_page": 19,
+  "wikidata_page_is_linked_item": 20,
+  "geonames_id_on_wikidata_page": 17,
+  "canonical_arabic_on_wikidata_page": 20
+ }
+}

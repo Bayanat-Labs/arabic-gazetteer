@@ -1,0 +1,21 @@
+arabic-gazetteer by Bayanat Labs
+Copyright 2026 Bayanat Labs
+
+The code in this repository is licensed under the Apache License 2.0 (LICENSE).
+The data files in results/ and src/arabic_gazetteer/data/ and the documentation are licensed under
+CC BY 4.0 (LICENSE-data).
+
+Data sources: GeoNames (https://www.geonames.org), files from
+https://download.geonames.org/export/dump/. Contains data from GeoNames (https://www.geonames.org), licensed under CC BY 4.0. Wikidata
+(https://www.wikidata.org), through the Arab-World Wikidata Slice
+(https://huggingface.co/datasets/Bayanat-Labs/arab-world-wikidata); Wikidata's structured data is
+dedicated to the public domain under CC0 1.0. The class table in src/arabic_gazetteer/data/ is
+computed from subclass-of (P279) statements of the Wikidata JSON dump of 26 October 2026. The full
+gazetteer tables are published as a dataset on Hugging Face, not in this repository.
+
+Runtime dependencies: requests (Apache-2.0), PyArrow (Apache-2.0), DuckDB (MIT), arabic-normalize
+(Apache-2.0). Optional: Matplotlib (Matplotlib licence, BSD-style) for the chart, zstandard
+(BSD-3-Clause) for the class table.
+
+The Bayanat Labs name, logo and project branding are not licensed under the Apache License 2.0 or
+under any other licence in this repository.

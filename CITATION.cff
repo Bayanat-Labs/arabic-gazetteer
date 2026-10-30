@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use the gazetteer or the builder, please cite it as below and give the version."
+type: software
+title: "Arabic Gazetteer"
+version: "0.1.0"
+date-released: "2026-10-30"
+license: Apache-2.0
+repository-code: "https://github.com/Bayanat-Labs/arabic-gazetteer"
+url: "https://huggingface.co/datasets/Bayanat-Labs/arabic-gazetteer"
+authors:
+  - name: "Bayanat Labs"
+keywords:
+  - arabic
+  - gazetteer
+  - place-names
+  - toponyms
+  - geonames
+  - wikidata
+  - geocoding
+  - entity-linking
+abstract: "Arabic place names for the 22 member states of the League of Arab States from GeoNames (files of 2026-10-30) and Wikidata (dump of 2026-10-26): 246,637 places with Arabic and Latin-script name variants in spelling clusters, admin paths and 52,257 place-matching examples. Contains data from GeoNames (CC BY 4.0) and Wikidata (CC0)."

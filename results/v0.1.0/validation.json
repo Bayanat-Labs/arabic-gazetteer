@@ -1,0 +1,136 @@
+{
+ "passed": true,
+ "n_checks": 26,
+ "checks": [
+  {
+   "check": "record_id unique",
+   "passed": true,
+   "detail": "246637 records"
+  },
+  {
+   "check": "one record per GeoNames feature",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "Wikidata-only items are not linked to a GeoNames record",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "every record has coordinates",
+   "passed": true,
+   "detail": "0 without"
+  },
+  {
+   "check": "every record has one of the 22 country codes",
+   "passed": true,
+   "detail": "0 without"
+  },
+  {
+   "check": "canonical Arabic name is in Arabic script",
+   "passed": true,
+   "detail": "0 failing"
+  },
+  {
+   "check": "no canonical, listed or admin-unit name contains an invisible format control",
+   "passed": true,
+   "detail": "0 failing"
+  },
+  {
+   "check": "licence partition and source references on every record",
+   "passed": true,
+   "detail": "0 failing"
+  },
+  {
+   "check": "hierarchy_conflict matches hierarchy_check",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "admin paths start at the country, list every level, and keep unresolved levels empty",
+   "passed": true,
+   "detail": "0 failing"
+  },
+  {
+   "check": "name_id unique",
+   "passed": true,
+   "detail": "1242453 names"
+  },
+  {
+   "check": "every name belongs to a record",
+   "passed": true,
+   "detail": "0 orphan names"
+  },
+  {
+   "check": "exactly one canonical Arabic name per record",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "canonical name row (without format controls) equals the record's name_ar",
+   "passed": true,
+   "detail": "0 failing"
+  },
+  {
+   "check": "name rows with invisible format controls, and only those, carry name_issue format_control",
+   "passed": true,
+   "detail": "1926 flagged; 0 failing"
+  },
+  {
+   "check": "every record has at least one Arabic name",
+   "passed": true,
+   "detail": "0 without"
+  },
+  {
+   "check": "every name carries its source licence",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "clusters never span two records",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "admin unit IDs unique",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "every known admin parent is in the table",
+   "passed": true,
+   "detail": "0 failing; 96 units whose parent code does not resolve in GeoNames"
+  },
+  {
+   "check": "example_id unique",
+   "passed": true,
+   "detail": "52257 examples"
+  },
+  {
+   "check": "every match target exists",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "distractors exist and differ from the target",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "no target in more than one split",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "at least 80% of examples have two or more same-name distractors",
+   "passed": true,
+   "detail": "83.8%"
+  },
+  {
+   "check": "at least 5,000 match examples",
+   "passed": true,
+   "detail": "52257"
+  }
+ ]
+}

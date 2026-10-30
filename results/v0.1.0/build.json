@@ -1,0 +1,406 @@
+{
+ "release": "0.1.0",
+ "geonames": {
+  "date": "2026-10-30",
+  "files": [
+   {
+    "source_url": "https://download.geonames.org/export/dump/AE.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:47:25 GMT",
+    "bytes": 345308,
+    "sha256": "6ea8287120263427d89d6882b9c6f5e37d051adcb07fc568968b8b7e25fad8ee",
+    "retrieved_at": "2026-10-30T12:45:03Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/BH.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:47:57 GMT",
+    "bytes": 77163,
+    "sha256": "5412742c8f9c0f0d388264cc14052e90cd801c19b034759eb7412541f3bf3c68",
+    "retrieved_at": "2026-10-30T12:44:40Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/DJ.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:49:16 GMT",
+    "bytes": 171819,
+    "sha256": "a9805a5f9a5c48e43dd9dca74b80874bfd16c2818bf48266f1a468e72ff66e94",
+    "retrieved_at": "2026-10-30T12:44:43Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/DZ.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:49:20 GMT",
+    "bytes": 1779769,
+    "sha256": "171525d302e40fba7e31f51ec8493f4c663c1dd8bdeb971bc15d153cd21fcbe3",
+    "retrieved_at": "2026-10-30T12:44:39Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/EG.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:49:22 GMT",
+    "bytes": 1859097,
+    "sha256": "98b79014739d4f59c87cb305cb7c3844db53f038deb6f8526d6e79252257d76b",
+    "retrieved_at": "2026-10-30T12:44:45Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/IQ.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:50:37 GMT",
+    "bytes": 2800864,
+    "sha256": "1cb870de6ccb070a51778be1e9313d1bc8eba4b557ba69b9cc361bd1b8f001b3",
+    "retrieved_at": "2026-10-30T12:44:45Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/JO.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:50:56 GMT",
+    "bytes": 693127,
+    "sha256": "f2e5b610e363a9469bdedda1ec6c6aebfa78155fe674a8e7a3590243e912e41c",
+    "retrieved_at": "2026-10-30T12:44:46Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/KM.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:51:03 GMT",
+    "bytes": 38390,
+    "sha256": "4cddf5b48650f942f3efd57e8b75effb4476732e45afe9eeccea875fa67bfe88",
+    "retrieved_at": "2026-10-30T12:44:41Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/KW.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:51:12 GMT",
+    "bytes": 58077,
+    "sha256": "34ca93123131daf9fd4ac164cd11b70fa3e86a63ac11bef80760b53e048b0069",
+    "retrieved_at": "2026-10-30T12:44:47Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/LB.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:51:17 GMT",
+    "bytes": 1141461,
+    "sha256": "4517c4634c7527ea3384643ea0780374444fdd1c1e82406bb2925458808435c6",
+    "retrieved_at": "2026-10-30T12:44:49Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/LY.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:51:23 GMT",
+    "bytes": 973894,
+    "sha256": "2058c611c157704c83c33c4461184f6c33225d39883161917005f63802435940",
+    "retrieved_at": "2026-10-30T12:44:50Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/MA.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:51:27 GMT",
+    "bytes": 4201009,
+    "sha256": "8f2e75e6f25d863af24cba109b90a41c425a1a7b943cde95f2a63eb3bc0020a2",
+    "retrieved_at": "2026-10-30T12:44:53Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/MR.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:51:35 GMT",
+    "bytes": 556109,
+    "sha256": "24f663117eac46948ab4fef49dcae965fa6f8bb9179f9fea11da0fb91308e5ff",
+    "retrieved_at": "2026-10-30T12:44:51Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/OM.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:52:23 GMT",
+    "bytes": 587820,
+    "sha256": "5655d5e29e670928a0fc5b42074102401ebef4bd096bb91d00d60a46c2b3d4b9",
+    "retrieved_at": "2026-10-30T12:44:53Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/PS.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:52:40 GMT",
+    "bytes": 308270,
+    "sha256": "614ec443b56b861cf0953f957c5c0c4d7d7b42793408722f9242a80a3771e629",
+    "retrieved_at": "2026-10-30T12:44:55Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/QA.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:52:43 GMT",
+    "bytes": 237626,
+    "sha256": "8e15afa60034bcbebbaed8acced1627ea720b0d77c71dd09da5bac4c653c5056",
+    "retrieved_at": "2026-10-30T12:44:56Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/SA.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:53:04 GMT",
+    "bytes": 1232613,
+    "sha256": "dfa0c4ccbb9a8c0b28122aaa85d0591267536ac585180ba0c042ca6dc061ffaf",
+    "retrieved_at": "2026-10-30T12:44:58Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/SD.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:53:06 GMT",
+    "bytes": 810824,
+    "sha256": "a2f4775dedb1ae1d96b68560da7cc73b83eaae84e677e33fa5ca446aabf2b50e",
+    "retrieved_at": "2026-10-30T12:45:00Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/SO.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:53:12 GMT",
+    "bytes": 490649,
+    "sha256": "8719ca6ebf21ef8e3b282c75e5991a087e142420c78904ece45e22edab17c08c",
+    "retrieved_at": "2026-10-30T12:44:58Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/SY.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:53:14 GMT",
+    "bytes": 1999333,
+    "sha256": "99a4ec4f0eb288edbd69849ec956ba5134e14d23a5a23933f173abf2050791a3",
+    "retrieved_at": "2026-10-30T12:45:01Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/TN.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:53:27 GMT",
+    "bytes": 904074,
+    "sha256": "0addafcb7428b56fe308c941e969f15a81e6f0548d312184d263112eea6754a9",
+    "retrieved_at": "2026-10-30T12:45:02Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/YE.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:54:55 GMT",
+    "bytes": 3810029,
+    "sha256": "899943d06ae5de82de10ac2690d5d75214e5c291de2258c90e39f9c4330cc0aa",
+    "retrieved_at": "2026-10-30T12:45:05Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+    "last_modified": "Fri, 30 Oct 2026 02:55:00 GMT",
+    "bytes": 151571,
+    "sha256": "2e4867f5397acb056ea26377601b57af37cb4c81399770225018e9e439e91ad3",
+    "retrieved_at": "2026-10-30T12:44:36Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/admin2Codes.txt",
+    "last_modified": "Fri, 30 Oct 2026 02:55:00 GMT",
+    "bytes": 2371888,
+    "sha256": "e0cd374c39ea78dfd878edfbdcd339f7bdd4016f0147c90fc6a5e45eb7f10279",
+    "retrieved_at": "2026-10-30T12:44:37Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/AE.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:57:57 GMT",
+    "bytes": 208100,
+    "sha256": "2d4101ae7aac75d57ac392a865c6aa0898fa22359fd1978fe5ea1b409fe2df27",
+    "retrieved_at": "2026-10-30T12:45:30Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/BH.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:58:06 GMT",
+    "bytes": 55737,
+    "sha256": "ede8c6f081c3923956aabfd4c5537f5f08764648017d63c3cc95e4a4e6b0f2ef",
+    "retrieved_at": "2026-10-30T12:45:07Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/DJ.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:58:31 GMT",
+    "bytes": 70296,
+    "sha256": "64ea601b9e2290a1ca014048da4cf8f83374b98b23a4f1908e220d4b537b2572",
+    "retrieved_at": "2026-10-30T12:45:09Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/DZ.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:58:32 GMT",
+    "bytes": 588552,
+    "sha256": "cedb97d734c6867c6bc8dad18b252423c0c129d8d1742cb33b0e016813a3f1f4",
+    "retrieved_at": "2026-10-30T12:45:05Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/EG.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:58:33 GMT",
+    "bytes": 1183133,
+    "sha256": "ff7fa22bcaa71183f30f04fc2929b97ab0693fd6670b62c3760ae8762a709f7e",
+    "retrieved_at": "2026-10-30T12:45:11Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/IQ.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:58:52 GMT",
+    "bytes": 1794795,
+    "sha256": "4e7ce2ba9a9c97b4be473ee39df79d4055d2047a079323efb61e33c7f7e4224e",
+    "retrieved_at": "2026-10-30T12:45:12Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/JO.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:59:01 GMT",
+    "bytes": 445317,
+    "sha256": "1ecbcaa4836a85c299f88ca5b02deab3b94677aad6540a82e1898b672d2e761d",
+    "retrieved_at": "2026-10-30T12:45:13Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/KM.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:59:04 GMT",
+    "bytes": 28243,
+    "sha256": "9c367a58d451813b28a00d2753ab5009865d651f0923f7c57538b3e543e4a79a",
+    "retrieved_at": "2026-10-30T12:45:08Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/KW.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:59:08 GMT",
+    "bytes": 46805,
+    "sha256": "5866b102f1aa77a984d6d159da4e2de17cf65c87deb1deb91e4b0dda69b05b55",
+    "retrieved_at": "2026-10-30T12:45:14Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/LB.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:59:10 GMT",
+    "bytes": 697145,
+    "sha256": "450bb80d9f921953a20e10e64cdf1d234a195abeb4b0f685bbaccfa08ddca0bd",
+    "retrieved_at": "2026-10-30T12:45:16Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/LY.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:59:12 GMT",
+    "bytes": 468183,
+    "sha256": "c94013bcb57c172906ab0442d442b2a591d16278dbc7f7ebe450cb35f4e6bbfb",
+    "retrieved_at": "2026-10-30T12:45:16Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/MA.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:59:12 GMT",
+    "bytes": 1028790,
+    "sha256": "b0e6818ac1c95107aca0d7b8baa7120b70c8d898c05447efe960a93a31c5eea0",
+    "retrieved_at": "2026-10-30T12:45:19Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/MR.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:59:14 GMT",
+    "bytes": 203593,
+    "sha256": "6385daced52a4fec2b256925aeb556617bf1e1e3fbd884e14f0253f7c3257bdf",
+    "retrieved_at": "2026-10-30T12:45:18Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/OM.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:59:27 GMT",
+    "bytes": 376639,
+    "sha256": "e76aecb9efd604dda66fa991f321d1d97ea702f29cd43ff203943993b54cc9f3",
+    "retrieved_at": "2026-10-30T12:45:20Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/PS.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:59:32 GMT",
+    "bytes": 206856,
+    "sha256": "0326a5fb73902feb0c7f367caa46611af33e65471879a13daf3fee71d53c925c",
+    "retrieved_at": "2026-10-30T12:45:21Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/QA.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:59:32 GMT",
+    "bytes": 154222,
+    "sha256": "9b96f75322a80bb4dc48bc332d17b3dbb18493f69b3db9fdd6002e3eefc14d00",
+    "retrieved_at": "2026-10-30T12:45:23Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/SA.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:59:43 GMT",
+    "bytes": 719052,
+    "sha256": "e190d36f3f6cf5dddba43c7cebac8d9c12543da079a136f3afe6a5b2b32a2861",
+    "retrieved_at": "2026-10-30T12:45:24Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/SD.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:59:44 GMT",
+    "bytes": 416787,
+    "sha256": "640a7ad117edb69b21f41fb4f7edbd4f1509e515a2183ac58858a106668b2831",
+    "retrieved_at": "2026-10-30T12:45:26Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/SO.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:59:46 GMT",
+    "bytes": 280824,
+    "sha256": "5d3e18f1d34e71bfba105d6bae79c3dd53cd568f64f43c51d34ad5b97f6885d2",
+    "retrieved_at": "2026-10-30T12:45:25Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/SY.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:59:47 GMT",
+    "bytes": 1259047,
+    "sha256": "a919ae774f6911f302ac631158991428562cd89879cbce1a26e5efee4cf82130",
+    "retrieved_at": "2026-10-30T12:45:28Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/TN.zip",
+    "last_modified": "Fri, 30 Oct 2026 02:59:52 GMT",
+    "bytes": 456505,
+    "sha256": "806a5026b9e0a8c2f48cb13638dec5caabdf0086742047cfad5f061b57ca81d3",
+    "retrieved_at": "2026-10-30T12:45:28Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/alternatenames/YE.zip",
+    "last_modified": "Fri, 30 Oct 2026 03:00:13 GMT",
+    "bytes": 2169199,
+    "sha256": "95a25844f669d2e18b35e4639f8f0f9e56d8841b4f0b3e94eea1e10e84a37cdd",
+    "retrieved_at": "2026-10-30T12:45:32Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/countryInfo.txt",
+    "last_modified": "Fri, 30 Oct 2026 03:00:32 GMT",
+    "bytes": 32115,
+    "sha256": "5c710efde90ee4cca15001c9f6a97ae7a74c7020b365504913ddc3afeb6d3671",
+    "retrieved_at": "2026-10-30T12:44:33Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/featureCodes_en.txt",
+    "last_modified": "Fri, 30 Oct 2026 02:44:54 GMT",
+    "bytes": 58642,
+    "sha256": "d44f129c1cffdeabf759c99fe7ea5b84f615c7f3e7366fb76ccf990f408f6af7",
+    "retrieved_at": "2026-10-30T12:44:34Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/hierarchy.zip",
+    "last_modified": "Fri, 30 Oct 2026 03:00:21 GMT",
+    "bytes": 2073451,
+    "sha256": "57e1d0659e437bb9de914525c660c12d606c702effedad2edd9d40025d72f902",
+    "retrieved_at": "2026-10-30T12:44:38Z"
+   },
+   {
+    "source_url": "https://download.geonames.org/export/dump/readme.txt",
+    "last_modified": "Fri, 30 Oct 2026 02:44:54 GMT",
+    "bytes": 8843,
+    "sha256": "b1957379b6c1242c700c98ac9a8aa0a09f56c3c0a50ee72175527005f48ef2c5",
+    "retrieved_at": "2026-10-30T12:44:32Z"
+   }
+  ]
+ },
+ "wikidata": {
+  "slice": "Bayanat-Labs/arab-world-wikidata",
+  "slice_version": "0.1.0",
+  "slice_revision": "6e1295970ec41247d421e4843227f724ae8de32b",
+  "slice_manifest_sha256": "afd93561c802ed4f8ecb6f3f4ea9e5a574b322ce10952b303f381c79fa601594",
+  "slice_files_checked_against_sha256sums": 5,
+  "dump_file": "wikidata-20261026-all.json.gz",
+  "dump_date": "2026-10-26",
+  "dump_sha256": "50286f6be082bc57e5dcef04afe8eac7e09a639a828c24d0b170456f8a6f5cdb"
+ },
+ "normalisation": {
+  "package": "arabic-normalize",
+  "package_version": "0.1.0",
+  "policy": "bayanat-norm-v1",
+  "policy_sha256": "ebdb82000d0762a65120ffa9311bc6f01b481b19d4348ea5bedb3ab23d759321"
+ },
+ "build_counts": {
+  "wd_only_skipped_family_X": 184629,
+  "wd_only_skipped_family_-": 276,
+  "geonames_features_read": 657847,
+  "geonames_features_in_scope": 563437,
+  "link_candidates": 211228
+ },
+ "class_map_sha256": "8dd9d240ced38adfe2c9f46ccbafa30329a0378812cb76cfc87b0bfb0bedd1dd",
+ "states": [
+  "DZ",
+  "BH",
+  "KM",
+  "DJ",
+  "EG",
+  "IQ",
+  "JO",
+  "KW",
+  "LB",
+  "LY",
+  "MR",
+  "MA",
+  "OM",
+  "PS",
+  "QA",
+  "SA",
+  "SO",
+  "SD",
+  "SY",
+  "TN",
+  "AE",
+  "YE"
+ ]
+}

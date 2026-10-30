@@ -1,0 +1,23 @@
+country_code,state,geonames_features_in_scope,with_arabic_name_geonames,with_arabic_name_any,wikidata_only_records
+DZ,Algeria,47775,2273,3059,2212
+BH,Bahrain,348,331,334,83
+KM,Comoros,1112,46,141,55
+DJ,Djibouti,5453,96,134,52
+EG,Egypt,27109,17357,17915,1925
+IQ,Iraq,41641,34326,34531,1182
+JO,Jordan,7313,5255,5292,319
+KW,Kuwait,784,765,768,69
+LB,Lebanon,23268,13723,13831,954
+LY,Libya,18355,4013,4164,352
+MR,Mauritania,15543,816,1014,118
+MA,Morocco,129153,2724,3136,3192
+OM,Oman,11435,8886,8927,200
+PS,Palestine,4300,1082,1236,558
+QA,Qatar,3588,3567,3571,293
+SA,Saudi Arabia,25488,13889,14134,1042
+SO,Somalia,17139,71,461,239
+SD,Sudan,26727,373,501,240
+SY,Syria,35631,32149,32183,4197
+TN,Tunisia,18177,2693,2898,587
+AE,United Arab Emirates,5715,2542,2722,276
+YE,Yemen,97383,73237,77011,529

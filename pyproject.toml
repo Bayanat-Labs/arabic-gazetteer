@@ -1,0 +1,60 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "arabic-gazetteer"
+dynamic = ["version"]
+description = "Build an Arabic place-names gazetteer for the 22 Arab League states from GeoNames and Wikidata: places, name variants with spelling clusters, admin paths and place-matching examples. By Bayanat Labs."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "Apache-2.0"
+license-files = ["LICENSE", "LICENSE-data", "NOTICE"]
+authors = [{ name = "Bayanat Labs" }]
+dependencies = [
+  "requests>=2.28",
+  "pyarrow>=14",
+  "duckdb>=1.1",
+  "arabic-normalize @ git+https://github.com/Bayanat-Labs/arabic-normalize@3ad22326a66596e8dc413321017251eed6e60439",
+]
+keywords = ["arabic", "gazetteer", "place-names", "geonames", "wikidata", "toponyms", "geocoding", "entity-linking", "arab-world"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Science/Research",
+  "Natural Language :: Arabic",
+  "Natural Language :: English",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Topic :: Scientific/Engineering :: GIS",
+  "Topic :: Text Processing :: Linguistic",
+]
+
+[project.optional-dependencies]
+chart = ["matplotlib>=3.7"]
+classmap = ["zstandard>=0.22"]
+test = ["pytest>=7", "matplotlib>=3.7"]
+
+[project.urls]
+Homepage = "https://github.com/Bayanat-Labs/arabic-gazetteer"
+Repository = "https://github.com/Bayanat-Labs/arabic-gazetteer"
+Issues = "https://github.com/Bayanat-Labs/arabic-gazetteer/issues"
+Dataset = "https://huggingface.co/datasets/Bayanat-Labs/arabic-gazetteer"
+
+[project.scripts]
+arabic-gazetteer = "arabic_gazetteer.cli:main"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+packages = ["arabic_gazetteer"]
+
+[tool.setuptools.package-data]
+"arabic_gazetteer" = ["data/*.csv"]
+
+[tool.setuptools.dynamic]
+version = { attr = "arabic_gazetteer.__version__" }
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-p no:cacheprovider"
